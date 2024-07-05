@@ -1,0 +1,41 @@
+Terms of Service for UploadBot
+1. Introduction
+Welcome to UploadBot. These Terms of Service ("ToS") govern your use of the UploadBot Discord bot ("the Bot"). By using the Bot, you agree to be bound by these ToS. If you do not agree with any part of these ToS, you must not use the Bot.
+
+2. Description of Service
+UploadBot is a Discord bot designed to upload images direcly to img.bb. The Bot is provided to you free of charge, although certain features or functionalities may be restricted to premium users or require additional agreements.
+
+3. Usage Guidelines
+When using the Bot, you agree to the following:
+
+-You will comply with all applicable laws and the Discord Terms of Service.
+-You will not use the Bot for any illegal or unauthorized purpose.
+-You will not attempt to exploit, hack, or disrupt the functionality of the Bot.
+-You will not use the Bot to harass, abuse, or harm other users.
+-You will not spam or use the Bot to send unsolicited messages.
+
+4. User Content
+You are responsible for all content you submit through the Bot. By submitting content, you grant UploadBot a worldwide, non-exclusive, royalty-free license to use, distribute, and display such content.
+
+5. Privacy
+Your privacy is important to us. Please review our Privacy Policy [link to Privacy Policy] to understand how we collect, use, and protect your information.
+
+6. Modifications to Service
+We reserve the right to modify, suspend, or discontinue the Bot at any time, with or without notice. We are not liable to you or any third party for any modification, suspension, or discontinuance of the Bot.
+
+7. Termination
+We may terminate or suspend your access to the Bot at our sole discretion, without prior notice, for conduct that we believe violates these ToS or is harmful to other users, us, or third parties.
+
+8. Disclaimer of Warranties
+The Bot is provided "as is" and "as available." We disclaim all warranties of any kind, whether express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+
+9. Limitation of Liability
+In no event shall UploadBot, its developers, or affiliates be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with your use of the Bot.
+
+10. Changes to Terms of Service
+We reserve the right to update or modify these ToS at any time. Your continued use of the Bot after any such changes constitutes your acceptance of the new ToS.
+
+11. Contact Information
+If you have any questions or concerns about these ToS, please contact us at uploadbot@proton.me
+
+By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service.
